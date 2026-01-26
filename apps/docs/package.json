@@ -39,7 +39,7 @@
     "solid-mdx": "^0.0.7",
     "solid-sonner": "^0.2.8",
     "tailwind-merge": "^2.5.4",
-    "undici": "^5.28.4",
+    "undici": "^6.23.0",
     "vinxi": "^0.4.3"
   },
   "devDependencies": {
